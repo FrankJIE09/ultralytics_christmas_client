@@ -1,0 +1,17 @@
+/ollama_finetuning/asset/
+.idea/
+__pycache__/
+/AsyncTalker/asset/
+/ollama_fine_tuning/asset/
+/ollama_fine_tuning/recorded_audio/
+/ollama_fine_tuning/voice_wavs/
+/ollama_fine_tuning/voice_pth/
+/AsyncTalker/audio/*
+/AsyncTalker/modelsChristmas/*
+/AsyncTalker/asset/*
+./asset/gpt/*
+./chatTTS/ChatTTS/asset/*
+./ollama_fine_tuning/*
+./.git/objects/*
+./asset/*
+./asset/
